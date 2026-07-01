@@ -66,7 +66,7 @@ I enjoy solving complex production problems, improving system resilience, and bu
 - Speaker at DevOps & Cloud Community events
 - Active in cloud-native communities
 - Contributor to SRE best practices and tooling
-- Open Source Contributer
+- Open Source Contributer - HolmesGPT
 
 ---
 
